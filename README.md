@@ -1,11 +1,11 @@
-#ddump
+# ddump
 Dump discord channel messages and guilds to text/CSV.
 
-###Building
+### Building
 - Install cmake, libcurl
 - `mkdir build && cd build && cmake ../ && make`
 
-###Usage
+### Usage
 ```
 ddump [OPTIONS]...
 -t [TOKEN] - Use [TOKEN] for authentication
